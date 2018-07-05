@@ -1,0 +1,31 @@
+
+<style>
+h1{
+  font-size:21px;font-family:inherit;
+  text-align: left;
+  color:white
+ }
+ h2{
+  font-size:21px;font-family:inherit;
+  text-align: left;
+  color:white
+ }
+h3{
+ font-size:21px;font-family:inherit;
+ text-align: left;
+ color:white
+}
+div {
+background-color:clear
+}
+p {
+      border-top-style: inset;
+      border-right-style: outset;
+      border-bottom-style: inset;
+      border-left-style: outset;
+    border-width: 6px;
+  font-size:15px;font-family:Georgia, serif;;
+  color:white
+}
+body { background-image:url("https://i.imgur.com/JrbOUBy.gif");width:220px;height:140px;color:black;font-size:18px;">
+}
